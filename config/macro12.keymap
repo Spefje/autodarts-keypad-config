@@ -44,6 +44,7 @@
                 &kp UP       &kp F5       &kp F6 
                 &kp LEFT     &kp DOWN     &kp RIGHT     
                 &trans       &kp F11      &kp F12 
+
             >;
         };
     };
